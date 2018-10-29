@@ -1,0 +1,3 @@
+
+scripts/normalizeFilenames.sh
+scripts/summarizeSNaqres.sh
